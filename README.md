@@ -45,7 +45,7 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 ### Lesson 5
 - Try-Except
 - Introduction to OOP
-- Introduction to NumPy
+- Introduction to NumPy (Extra)
 
 ## Certificate
 ![](Py_Certificate.png)
